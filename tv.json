@@ -1,16 +1,42 @@
 {
-  "updated": "2026-11-11T12:00:00Z",
+  "updated": "2026-11-11T18:19:52Z",
   "about": "Bestätigte deutsche TV-Sender für einzelne Spiele der GameDay-App. Wird wöchentlich gepflegt. date = Spieltag in deutscher Zeit (Europe/Berlin), match = Wörter, die im Spieltitel vorkommen müssen.",
   "matches": [
     {
+      "date": "2026-11-15",
+      "comp": "nfl",
+      "match": [
+        "49ers",
+        "cowboys"
+      ],
+      "name": "RTL",
+      "additional": "RTL+ (72h Relive) · NFL Game Pass (DAZN)",
+      "note": "Week 10, 22:25 Uhr: ran.de-Wochenübersicht nennt 49ers at Cowboys live im Free-TV bei RTL.",
+      "source": "https://ran.joyn.de/sports/american-football/nfl/nfl-live-diese-spiele-werden-in-woche10-kostenlos-gezeigt-uebertragungen-im-free-tv-livestream-und-ticker-173951"
+    },
+    {
+      "date": "2026-11-21",
+      "comp": "f1",
+      "match": [
+        "las vegas"
+      ],
+      "session": "Qualifying",
+      "name": "RTL · Sky Sport F1 / WOW",
+      "additional": "RTL+ (Stream)",
+      "note": "Qualifying zum GP Las Vegas in der Nacht auf Samstag: laut Programmübersicht live bei RTL/RTL+ und Sky.",
+      "source": "https://www.dslweb.de/formel-1-las-vegas.php"
+    },
+    {
       "date": "2026-11-22",
       "comp": "f1",
-      "match": ["las vegas"],
+      "match": [
+        "las vegas"
+      ],
       "session": "Rennen",
       "name": "RTL · Sky Sport F1 / WOW",
       "additional": "RTL+ (Stream)",
-      "note": "Großer Preis von Las Vegas: RTL zeigt das Rennen live im Free-TV, Sky alle Sessions.",
-      "source": "https://www.dslweb.de/formel-1-oesterreich.php"
+      "note": "Großer Preis von Las Vegas (Sonntagmorgen deutscher Zeit): eines der fünf RTL-Live-Rennen 2026, Sky zeigt alle Sessions.",
+      "source": "https://www.dslweb.de/formel-1-las-vegas.php"
     }
   ]
 }
