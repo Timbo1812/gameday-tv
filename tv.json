@@ -1,0 +1,16 @@
+{
+  "updated": "2026-11-11T12:00:00Z",
+  "about": "Bestätigte deutsche TV-Sender für einzelne Spiele der GameDay-App. Wird wöchentlich gepflegt. date = Spieltag in deutscher Zeit (Europe/Berlin), match = Wörter, die im Spieltitel vorkommen müssen.",
+  "matches": [
+    {
+      "date": "2026-11-22",
+      "comp": "f1",
+      "match": ["las vegas"],
+      "session": "Rennen",
+      "name": "RTL · Sky Sport F1 / WOW",
+      "additional": "RTL+ (Stream)",
+      "note": "Großer Preis von Las Vegas: RTL zeigt das Rennen live im Free-TV, Sky alle Sessions.",
+      "source": "https://www.dslweb.de/formel-1-oesterreich.php"
+    }
+  ]
+}
