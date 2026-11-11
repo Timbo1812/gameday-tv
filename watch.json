@@ -1,0 +1,9 @@
+{
+  "about": "Teams, für die die wöchentliche Aufgabe deutsche TV-Sender recherchiert. ESPN-Name = so heißt das Team im Spieltitel der App.",
+  "teams": [
+    { "name": "SC Freiburg", "espn": "SC Freiburg", "comps": ["ger.1", "ger.dfb_pokal", "uefa.europa.conf"] },
+    { "name": "San Francisco 49ers", "espn": "San Francisco 49ers", "comps": ["nfl"] },
+    { "name": "Miami Heat", "espn": "Miami Heat", "comps": ["nba"] },
+    { "name": "Formel 1", "espn": "Grand Prix", "comps": ["f1"] }
+  ]
+}
