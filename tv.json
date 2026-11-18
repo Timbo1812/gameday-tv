@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-11T18:19:52Z",
+  "updated": "2026-11-18T18:20:39Z",
   "about": "Bestätigte deutsche TV-Sender für einzelne Spiele der GameDay-App. Wird wöchentlich gepflegt. date = Spieltag in deutscher Zeit (Europe/Berlin), match = Wörter, die im Spieltitel vorkommen müssen.",
   "matches": [
     {
@@ -27,6 +27,18 @@
       "source": "https://www.dslweb.de/formel-1-las-vegas.php"
     },
     {
+      "date": "2026-11-21",
+      "comp": "ger.1",
+      "match": [
+        "elversberg",
+        "freiburg"
+      ],
+      "name": "Sky / WOW",
+      "additional": "Sky Sport Bundesliga 5 · DAZN nur in der Samstags-Konferenz",
+      "note": "10. Spieltag, Sa 15:30 Uhr: bundesliga.com-TV-Plan nennt Elversberg – Freiburg live bei Sky Sport Bundesliga 5 und WOW.",
+      "source": "https://www.bundesliga.com/de/bundesliga/news/bundesliga-spiele-im-fernsehen-tv-sender-rtl-dazn-sky-prime-363"
+    },
+    {
       "date": "2026-11-22",
       "comp": "f1",
       "match": [
@@ -37,6 +49,18 @@
       "additional": "RTL+ (Stream)",
       "note": "Großer Preis von Las Vegas (Sonntagmorgen deutscher Zeit): eines der fünf RTL-Live-Rennen 2026, Sky zeigt alle Sessions.",
       "source": "https://www.dslweb.de/formel-1-las-vegas.php"
+    },
+    {
+      "date": "2026-11-23",
+      "comp": "nfl",
+      "match": [
+        "49ers",
+        "vikings"
+      ],
+      "name": "RTL",
+      "additional": "Sky · RTL+ · NFL Game Pass (DAZN)",
+      "note": "Week 11 (Mexico Game), Mo 02:20 Uhr: ran.de-Wochenübersicht nennt Vikings at 49ers live im Free-TV bei RTL und bei Sky.",
+      "source": "https://ran.joyn.de/sports/american-football/nfl/nfl-live-diese-spiele-werden-in-woche10-kostenlos-gezeigt-uebertragungen-im-free-tv-livestream-und-ticker-173951"
     }
   ]
 }
